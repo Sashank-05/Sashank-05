@@ -35,21 +35,6 @@
 
 <p>
 
-## 📝 Recent Projects
-
-
-</p>
-
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-
-<p align="center">
-<br>
-<a href="mailto:sashankvanka@gmail.com?subject=Hello,"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-
-</p>
-
-
 
 <br/> 
 <p>
