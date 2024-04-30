@@ -1,7 +1,6 @@
 # Hey there! 👋
 ## I'm Sashank Vanka
 
-- 😄 Pronouns: He/Him
 - ❤️ My favorite language is Python
 - 🌱 I’m currently learning: Artificial Intelligence
 - 💬 Ask me about: anything, I am happy to help
