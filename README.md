@@ -2,7 +2,7 @@
 
 # Sashank<span>.</span>
 
-<sub>Computer Science &nbsp; @ &nbsp; Bangalore Institute of Technology</sub>
+<sub>Computer Science &nbsp; @Bangalore Institute of Technology</sub>
 
 Systems · Backend · AI · Finance
 
